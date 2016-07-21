@@ -1,4 +1,4 @@
-﻿DETERMINING THE QIBLA DIRECTION BY SHADOWS 
+﻿DETERMINING THE QIBLA DIRECTION FROM SHADOWS 
 
 
 This Fortran program computes the times at which the shadow of a 
